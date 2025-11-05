@@ -1,0 +1,12 @@
+../FILE_TEST/file_opera.c:18:6:fatTest_WriteBinFile	4192	static
+../FILE_TEST/file_opera.c:42:7:fatTest_ReadBinFile	4232	static
+../FILE_TEST/file_opera.c:76:6:fatTest_WriteTXTFile	4232	static
+../FILE_TEST/file_opera.c:99:6:fatTest_ReadTXTFile	4264	static
+../FILE_TEST/file_opera.c:123:7:fatTest_GetDiskInfo	40	static
+../FILE_TEST/file_opera.c:180:6:fatTest_GetFileInfo	120	static
+../FILE_TEST/file_opera.c:214:6:fat_SetTimeStamp	56	static
+../FILE_TEST/file_opera.c:241:6:fat_GetTimeStamp	32	static
+../FILE_TEST/file_opera.c:264:7:fat_GetFatTimeFromRTC	40	static
+../FILE_TEST/file_opera.c:285:6:fatTest_ScanDir	96	static
+../FILE_TEST/file_opera.c:318:6:fatTest_RemoveAll	88	static
+../FILE_TEST/file_opera.c:347:6:TestFindFiles	96	static
